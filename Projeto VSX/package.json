@@ -1,0 +1,13 @@
+{
+  "name": "projeto-vsx",
+  "version": "1.0.0",
+  "description": "Site estático para VisionsX",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'Nenhum processo de build configurado ainda. Adicione ferramentas como minify-css, uglify-js aqui.'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
